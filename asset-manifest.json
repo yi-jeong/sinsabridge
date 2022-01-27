@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sinsabridge/static/css/main.77b401a6.css",
+    "main.js": "/sinsabridge/static/js/main.fb89ba49.js",
+    "static/js/787.3b83629c.chunk.js": "/sinsabridge/static/js/787.3b83629c.chunk.js",
+    "static/media/ico_comm.png": "/sinsabridge/static/media/ico_comm.a3b58e7d897e00687258.png",
+    "static/media/sinsabridge-ci.png": "/sinsabridge/static/media/sinsabridge-ci.6b7754e3f9764aacffed.png",
+    "static/media/slick.svg": "/sinsabridge/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sinsabridge/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sinsabridge/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sinsabridge/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sinsabridge/index.html",
+    "main.77b401a6.css.map": "/sinsabridge/static/css/main.77b401a6.css.map",
+    "main.fb89ba49.js.map": "/sinsabridge/static/js/main.fb89ba49.js.map",
+    "787.3b83629c.chunk.js.map": "/sinsabridge/static/js/787.3b83629c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77b401a6.css",
+    "static/js/main.fb89ba49.js"
+  ]
+}
